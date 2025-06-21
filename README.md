@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Yafet Berhanu
-- 📫 You can reach me on my email address yafetberhanu3@gmail.com
-
 
 ![](https://komarev.com/ghpvc/?username=yaphet17)
 
