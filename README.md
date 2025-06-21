@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yafet Berhanu
+👋 Hi, I’m Yafet Berhanu
 
 ![](https://komarev.com/ghpvc/?username=yaphet17)
 
